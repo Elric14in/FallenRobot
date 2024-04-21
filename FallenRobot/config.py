@@ -14,15 +14,15 @@ class Config(object):
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://telegra.ph/file/c2bbe2b73505fbc1d6b78.jpg"
+    START_IMG = "https://telegra.ph/file/faa63d78370341859e158.jpg"
 
-    SUPPORT_CHAT = "TEAM_HELL_OP"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "BotX_1"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = "7198096382:AAFU-M9177LaByRG16KSWKjCq6g-3Rf2yaE"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "V8BFIZGOKUHG"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 6692983479 # User id of your telegram account (Must be integer)
+    OWNER_ID = 7147921267 # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
