@@ -99,6 +99,6 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[𝙀𝙇𝙍𝙄𝘾](https://github.com/Elric14in)  ➻  [hᴇʟ꙱ʟ꙱ ꭙ ʙσᴛ](https://Elric14in/FallenRobot) 
+- <b>[𝙀𝙇𝙍𝙄𝘾](https://github.com/Elric14in)  ➻  [𝐆𝐓𝐀 𝐍𝐂𝐑 𝓧 𝐌𝐀𝐍𝐀𝐄𝐆𝐑⚡](https://Elric14in/FallenRobot) 
   
 ━━━━━━━━━━━━━━━━━━━━
