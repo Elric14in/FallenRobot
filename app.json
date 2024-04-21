@@ -1,6 +1,6 @@
 {
-      "name": " hᴇʟ꙱ʟ꙱ ꭙ ʙσᴛ ⚡",
-      "description": "Telegram Group Management Bot Developed By 𝐕𝐈𝐏 𝓢ᴛʀɪᴋᴇ.",
+      "name": " 𝐆𝐓𝐀 𝐍𝐂𝐑 𝓧 𝐌𝐀𝐍𝐀𝐄𝐆𝐑⚡",
+      "description": "Telegram Group Management Bot Developed By 𝙀𝙇𝙍𝙄𝘾.",
       "logo": "https://telegra.ph/file/c2bbe2b73505fbc1d6b78.jpg",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/IamStrike/FallenRobot",
+   "repository": "https://github.com/Elric14in/FallenRobot",
    "stack": "heroku-22",
    "addons": [
       {
