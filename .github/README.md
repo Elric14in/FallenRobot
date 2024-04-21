@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ɦɛʟʟ Ӽ ʍǟռǟɢɛʀ 」──
+    ──「✩░▒▓▆▅▃▂▁ 𝐆𝐓𝐀 𝐍 𝐂 𝐑 𝐌𝐀𝐍𝐀𝐄𝐆𝐑▁▂▃▅▆▓▒░✩」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/IamStrike/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/Elric14in/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ hᴇʟ꙱ʟ꙱ ꭙ ʙσᴛ⚡](https://t.me/Hell_Manager_bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𝐆𝐓𝐀 𝐍𝐂𝐑 𝓧 𝐌𝐀𝐍𝐀𝐄𝐆𝐑⚡](https://https://t.me/+zFFLYOsY2xswOTZl)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
