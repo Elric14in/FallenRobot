@@ -99,6 +99,6 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[𝐕𝐈𝐏 𝓢ᴛʀɪᴋᴇ](https://github.com/Iamstrike)  ➻  [hᴇʟ꙱ʟ꙱ ꭙ ʙσᴛ](https://IamStrike/FallenRobot) 
+- <b>[𝙀𝙇𝙍𝙄𝘾](https://github.com/Elric14in)  ➻  [hᴇʟ꙱ʟ꙱ ꭙ ʙσᴛ](https://Elric14in/FallenRobot) 
   
 ━━━━━━━━━━━━━━━━━━━━
