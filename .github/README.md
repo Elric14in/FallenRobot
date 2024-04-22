@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𝐆𝐓𝐀 𝐍�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/f6befdc1b9e7ba53974a1.jpg">
+  <img src="https://telegra.ph/file/faa63d78370341859e158.jpg">
 </p>
 
 <p align="center">
